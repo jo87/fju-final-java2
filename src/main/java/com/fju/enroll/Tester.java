@@ -69,6 +69,7 @@ public class Tester {
     public static List<Course> getCourses() {
         List<Course> courses = new ArrayList<>();
 
+            Course c = new Course(id, name, seats);
 
         return null;
     }
